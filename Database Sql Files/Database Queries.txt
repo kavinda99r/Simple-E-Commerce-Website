@@ -1,0 +1,88 @@
+create table product(
+	id int AUTO_INCREMENT PRIMARY KEY,
+	description varchar(255),
+	image varchar(255),
+	price double
+);
+
+insert into product(description,image,price)values
+('Apple iPhone 15 Pro Max 512GB','1.png',454990),
+('Apple iPhone 15 Pro 256GB','2.png',367990),
+('Apple iPhone 15 Plus 256GB','3.png',334990),
+('Samsung Galaxy M55 256GB','4.png',145000),
+('Samsung Galaxy A55 256GB','4.png',167990),
+('Samsung Galaxy M15 128GB','4.png',62990),
+('Samsung Galaxy M14 64GB','4.png',36990),
+('Xiaomi Redmi Note 13 Pro+ 256GB','4.png',119990),
+('Xiaomi Redmi Note 13 256GB','4.png',69990),
+('Xiaomi Redmi Note 13 Pro 256GB','4.png',89990),
+('Xiaomi Redmi Note 12 Pro+ 256GB','4.png',104990);
+
+create table product2(
+	id int AUTO_INCREMENT PRIMARY KEY,
+	description varchar(255),
+	image varchar(255),
+	price double
+);
+
+insert into product2(description,image,price)values
+('HP PROBOOK 450 G8','Lap1.jpg',281750),
+('HP 255 G8 RYZEN 5 5500U','Lap2.jpg',229885),
+('ASUS VIVOBOOK 15 X1502ZA I7-1260P','4.png',329000),
+('ASUS VIVOBOOK PRO 15 OLED 7 5800H','4.png',589000),
+('ASUS VIVOBOOK GO 15 E1504FA R5-7520U','4.png',199900),
+('ASUS VIVOBOOK 15 OLED M513UA R7-5700U','4.png',267850),
+('MACBOOK AIR M1','4.png',269000),
+('MACBOOK AIR M3','4.png',375000),
+('MACBOOK AIR M2','4.png',399900),
+('MACBOOK PRO 13','4.png',489000),
+('ACER ASPIRE A315|I3-1215U','4.png',149900),
+('ACER ASPIRE A15-51P CORE 5-120U','4.png',224000),
+('MSI MODERN 15 - B13M I3-1315U','4.png',179100),
+('MSI MODERN 15 - B12M I7-1255U','4.png',285000);
+
+
+create table product3(
+	id int AUTO_INCREMENT PRIMARY KEY,
+	description varchar(255),
+	image varchar(255),
+	price double
+);
+
+insert into product3(description,image,price)values
+('RTX 3050 verto','Lap1.jpg',74000),
+('RTX 4060 Elite','Lap2.jpg',225000),
+('RTX 4060 Windforce','4.png',202000),
+('RTX 4060 OC Edition','4.png',189000),
+('GTX 1650','4.png',65500),
+('RTX 4060 TI','4.png',173000),
+('RTX 3050 VENTUS','4.png',114500),
+('RTX 4060 TI gaming x','4.png',224000);
+
+
+
+create table product4(
+	id int AUTO_INCREMENT PRIMARY KEY,
+	description varchar(255),
+	image varchar(255),
+	price double
+);
+
+insert into product4(description,image,price)values
+('AKG hand free','Lap1.jpg',500),
+('Gzsp high bass headset','Lap2.jpg',750),
+('Mi Handsfree','4.png',1450),
+('BENGOO Gaming Mouse Wired','4.png',2750),
+('Redragon Gaming Mouse wireless','4.png',5000),
+('Wired RGB Gaming Mouse','4.png',8500),
+('Mechanical Gaming Keyboard 87 Keys','4.png',10000),
+('Kafuty-1 MC-689 USB Wired Keyboard','4.png',5000),
+('Mechanical Keyboard, Full RGB 75% Gaming Keyboard with Red Switches','4.png',14000),
+('10W USB Powered Computer Speakers','4.png',12000),
+('PC Speakers with 6 Lighting Modes','4.png',10000),
+('Creative T15 Wireless Speakers",'4.png',8500);
+
+
+
+
+
