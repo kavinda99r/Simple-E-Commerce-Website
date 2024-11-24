@@ -1,4 +1,4 @@
-# Simple E-Commerce Website
+# Simple E-Commerce Website ✅
 
 This is a simple e-commerce website built using PHP and MySQL. Users can log in, browse categories (mobile, laptop, VGA, other accessories), add items to their cart, view the total price, and proceed to payment. After submitting the payment form, the system confirms the order as successful.
 <br><br>
@@ -47,3 +47,9 @@ Import the SQL files to their respective databases:
 - Go to the Import tab in phpMyAdmin.
 - Import the shopping.sql file for the shopping database.
 - Import the users.sql file for the users database.
+
+
+<br>
+
+> [!NOTE]
+> Once do these steps , the web application will be wok properly
