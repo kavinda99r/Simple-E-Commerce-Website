@@ -52,4 +52,4 @@ Import the SQL files to their respective databases:
 <br>
 
 > [!NOTE]
-> Once do these steps , the web application will be wok properly
+> Once you complete these steps, the web application will work properly.
