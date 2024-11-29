@@ -1,8 +1,9 @@
 # Simple E-Commerce Website ✅
 
 This is a simple e-commerce website built using PHP and MySQL. Users can log in, browse categories (mobile, laptop, VGA, other accessories), add items to their cart, view the total price, and proceed to payment. After submitting the payment form, the system confirms the order as successful.
-<br><br>
-Features
+
+<h3>Features</h3>
+
 - User login system.
 - Product categories: mobile, laptop, VGA, other accessories.
 - Add products to the shopping cart.
@@ -10,12 +11,15 @@ Features
 - Proceed to payment and simulate order completion.
 - MySQL database for storing users and product information.
 
-Technologies Used
+<h3>Technologies Used</h3>
+
 - PHP
 - MySQL (with phpMyAdmin for database management)
 - HTML/CSS
 - JavaScript (optional for front-end interactivity)
 - XAMPP (Apache server and MySQL database)
+
+<br>
 
 <h2>Installation Guide</h2>
 Step 1:<br> Download the ZIP file, then extract it.<br><br>
