@@ -2,7 +2,7 @@
 
 This is a simple e-commerce website built using PHP and MySQL. Users can log in, browse categories (mobile, laptop, VGA, other accessories), add items to their cart, view the total price, and proceed to payment. After submitting the payment form, the system confirms the order as successful.
 
-<h3>Features</h3>
+<h3>Key Features</h3>
 
 - User login system.
 - Product categories: mobile, laptop, VGA, other accessories.
