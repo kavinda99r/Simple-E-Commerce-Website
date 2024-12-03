@@ -11,7 +11,7 @@ This is a simple e-commerce website built using PHP and MySQL. Users can log in,
 - Proceed to payment and simulate order completion.
 - MySQL database for storing users and product information.
 
-<h3>Technologies Used</h3>
+<h3>Tech Stack</h3>
 
 - PHP
 - MySQL (with phpMyAdmin for database management)
