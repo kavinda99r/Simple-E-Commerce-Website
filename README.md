@@ -53,11 +53,8 @@ Import the SQL files to their respective databases:
 - Import the users.sql file for the users database.
 
 
-<br>
-----------------------
-<br>
-Happy Coding! 🎉 
-<br>
-----------------------
+<h2> </h2>
+
+<h3>Happy Coding! 🎉</h3>
 
 ---
