@@ -2,7 +2,7 @@
 
 This is a simple e-commerce website built using PHP and MySQL. Users can log in, browse categories (mobile, laptop, VGA, other accessories), add items to their cart, view the total price, and proceed to payment. After submitting the payment form, the system confirms the order as successful.
 
-<h3>Key Features</h3>
+<h3>Key Features ✨</h3>
 
 - User login system.
 - Product categories: mobile, laptop, VGA, other accessories.
@@ -11,7 +11,7 @@ This is a simple e-commerce website built using PHP and MySQL. Users can log in,
 - Proceed to payment and simulate order completion.
 - MySQL database for storing users and product information.
 
-<h3>Tech Stack</h3>
+<h3>Tech Stack 🛠️</h3>
 
 - PHP
 - MySQL (with phpMyAdmin for database management)
@@ -21,7 +21,7 @@ This is a simple e-commerce website built using PHP and MySQL. Users can log in,
 
 <br>
 
-<h2>Installation Guide</h2>
+<h2>Installation Guide 💻</h2>
 Step 1:<br> Download the ZIP file, then extract it.<br><br>
 
 Step 2:<br> Move the Project to XAMPP htdocs Folder<br>
@@ -54,6 +54,10 @@ Import the SQL files to their respective databases:
 
 
 <br>
+----------------------
+<br>
+Happy Coding! 🎉 
+<br>
+----------------------
 
-> [!NOTE]
-> Once you complete these steps, the web application will work properly.
+---
